@@ -6,7 +6,7 @@
     align-items: center;
     width: 100%;
     gap: 20px;
-    ;
+    
   }
 
 .login__nav__container {
@@ -69,7 +69,7 @@
   border-radius: 5px;
   border-color:var(--color-azul);
   outline: 0 none;
-  box-shadow: 1px 1px 1px 1px var(--color-celeste);
+ /*  box-shadow: 1px 1px 1px 1px var(--color-celeste); */
 
 }
 
