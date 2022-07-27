@@ -91,6 +91,11 @@
   font-weight: 900;
   text-transform: uppercase;
   color: var( --color-blanco);
+  transition:all 0.7s;
+}
+
+.form__label button:hover{
+  background-color:#0022AA;
 }
 
 

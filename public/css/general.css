@@ -32,36 +32,6 @@ body{
 .cuerpo{
     font-size: var(--font-size-cuerpos);
 }
-.titulo{
-    font-size: var(--font-size-titulos);
-   
-    font-weight: 700;
-}
-.precio{
-    padding-left:15px;
-    font-size: var(--font-size-precios);
-    width: 28%;
-}
-.descuento{
-  
-    font-size: var(--font-size-descuentos);
-    color:var(--color-gris-oscuro);
-    width: 68%;
-    padding-left: 15px;
-}
-.descripcion{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: var(--font-size-descripciones);
-    color:var(--color-gris-oscuro);
-    padding-top: 30px;
-    padding-bottom: 15px;
-    
-     background-color: var(--color-blanco);
-     
-     padding: 15px;
-}
 
 
 

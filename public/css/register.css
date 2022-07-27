@@ -61,8 +61,8 @@
   display: flex;
   gap: 20px;
   flex-direction: row;
-  width: 100%
- 
+  width: 100%;
+  max-width:550px;
 }
 
 .form__intereses__radio {
@@ -73,15 +73,13 @@
 
 .form__intereses__checkbox {
   display: flex;
- justify-content: space-between;
-  flex-direction: column    ;
-  gap: 20px;
-  
+  flex-wrap: wrap;
+  gap: 8px;
+   width: 80%;
+  white-space: nowrap;
+  justify-content: space-between;
 }
-.form__intereses__checkbox label {
 
-   
-}
 
 .form__intereses__checkbox input{
     text-align: left !important;
